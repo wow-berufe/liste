@@ -2,7 +2,10 @@
 
 ***Verzauberungen auf Dragon's Call (Horde).***
 
-* Kreuzfahrer (Crusader)
+### Table of Contents
+**[Kreuzfahrer](#Kreuzfahrer)**<br>
+
+## Kreuzfahrer (Crusader)
   * A
   * B
 
