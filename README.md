@@ -4,7 +4,7 @@
 
 ### Table of Contents
 **[Kreuzfahrer](#Kreuzfahrer)**<br>
-**[heal auf Waffe](#Waffe)**<br>
+**[heal auf Waffe](#waffe-55-heal)**<br>
 
 ## Kreuzfahrer (Crusader)
   * A
