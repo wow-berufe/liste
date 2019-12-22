@@ -3,7 +3,7 @@
 ***Verzauberungen auf Dragon's Call (Horde).***
 
 ### Table of Contents
-**[Kreuzfahrer](#Kreuzfahrer)**<br>
+**[Kreuzfahrer](#kreuzfahrer-crusader)**<br>
 **[heal auf Waffe](#waffe-55-heal)**<br>
 
 ## Kreuzfahrer (Crusader)
